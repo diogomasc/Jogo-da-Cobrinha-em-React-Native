@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
@@ -9,3 +10,7 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+=======
+# Jogo-da-Cobrinha-em-React-Native
+Este projeto é o clássico jogo da cobrinha, desenvolvido exclusivamente em React Native. No jogo, o jogador controla uma cobra que deve comer frutas para crescer e aumentar sua pontuação, assim como no jogo original. O jogo termina quando a cobra colide com ela mesma.
+>>>>>>> 2c5a84a795716b09c27587c2f0a2f8d6ecfe6827
